@@ -1,3 +1,9 @@
 # RAT-selection-and-data-coding
 
-Cuda %PATH% = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;
+'''
+pip install requirements.txt
+'''
+'''
+$cd gym-dataCachingCoding1
+pip install -e .
+'''
